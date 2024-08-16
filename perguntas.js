@@ -1,7 +1,7 @@
 export default [
     {
         question: "Ao chegar a um cruzamento que tem um sinal de STOP o que deve-se fazer?",
-        img: "img/img1.png",
+        img: "img1.webp",
         answers: [
             { option: "Parar e seguir", correct: false },
             { option: "Devagar e prosseguir", correct: false },
@@ -11,7 +11,7 @@ export default [
     },
     {
         question: "Quando um school bus está parado com luzes a piscar você deve…",
-        img: "img/img2.png",
+        img: "img2.webp",
         answers: [
             { option: "Reduzir a velocidade e passar com cuidado", correct: false },
             { option: "Esperar que os carros que se aproximem parem", correct: false },
@@ -21,7 +21,7 @@ export default [
     },
     {
         question: "Você deve conduzir sempre a uma velocidade que lhe permita..",
-        img: "img/img3.png",
+        img: "img3.webp",
         answers: [
             { option: "Parar a 90 metros", correct: false },
             { option: "Parar com segurança no espaço livre à sua frente", correct: true },
@@ -31,7 +31,7 @@ export default [
     },
     {
         question: "Em um cruzamento com o sinal de YIELD (ceder passagem) o que deve fazer?",
-        img: "img/img4.png",
+        img: "img4.webp",
         answers: [
             { option: "Parar e depois entrar devagar", correct: false },
             { option: "Parar e depois entrar depressa", correct: false },
@@ -41,7 +41,7 @@ export default [
     },
     {
         question: "Em que faixa de trânsito deve-se conduzir para virar à esquerda, em via de sentido único (one way)?",
-        img: "img/img5.png",
+        img: "img5.webp",
         answers: [
             { option: "Do lado direito da Estrada", correct: false },
             { option: "Do lado esquerdo", correct: true },
@@ -51,7 +51,7 @@ export default [
     },
     {
         question: "Uma luz azul piscando sobre certos veículos indica…",
-        img: "img/img6.png",
+        img: "img6.webp",
         answers: [
             { option: "Veículos de limpar neve das ruas e estradas", correct: true },
             { option: "Carro de polícia", correct: false },
@@ -61,7 +61,7 @@ export default [
     },
     {
         question: "A velocidade fora do centro é de …",
-        img: "img/img7.png",
+        img: "img7.webp",
         answers: [
             { option: "100 quilômetros por hora", correct: false },
             { option: "80 quilômetros por hora", correct: true },
@@ -71,7 +71,7 @@ export default [
     },
     {
         question: "Ao aproximar-se de um semáforo a luz está VERMELHA e a polícia diz para seguir..",
-        img: "img/img8.png",
+        img: "img8.webp",
         answers: [
             { option: "Chamo a atenção do policial que a luz está vermelha", correct: false },
             { option: "Paro só para ter a certeza que o policial não se enganou", correct: false },
@@ -81,7 +81,7 @@ export default [
     },
     {
         question: "Se a luz muda para você seguir mas ainda há pessoas atravessando a rua, quem tem a prioridade?",
-        img: "img/img9.png",
+        img: "img9.webp",
         answers: [
             { option: "Condutores vindos da direita", correct: false },
             { option: "Condutores que estão virando", correct: false },
@@ -91,7 +91,7 @@ export default [
     },
     {
         question: "Conduzindo com muito nevoeiro que luzes deve-se usar?",
-        img: "img/img10.png",
+        img: "img10.webp",
         answers: [
             { option: "Luzes máximas", correct: false },
             { option: "Luzes de estacionamento", correct: false },
@@ -101,7 +101,7 @@ export default [
     },
     {
         question: "Todo acidente deve ter participação da polícia quando há feridos ou se os prejuízos ultrapassarem…",
-        img: "img/img11.png",
+        img: "img11.webp",
         answers: [
             { option: "$150.00", correct: false },
             { option: "$250.00", correct: false },
@@ -111,7 +111,7 @@ export default [
     },
     {
         question: "A maior parte das derrapagens de automóveis são o resultado de…",
-        img: "img/img12.png",
+        img: "img12.webp",
         answers: [
             { option: "Pneus com ar a mais", correct: false },
             { option: "Guiar depressa", correct: true },
@@ -121,7 +121,7 @@ export default [
     },
     {
         question: "A linha descontinua à sua esquerda (do lado do motorista) junto de outra contínua ao lado quer dizer..",
-        img: "img/img13.png",
+        img: "img13.webp",
         answers: [
             { option: "Pode passar a qualquer momento", correct: false },
             { option: "Passar quando há tráfico na frente", correct: true },
@@ -131,7 +131,7 @@ export default [
     },
     {
         question: "A 50 km/h quanto percorre um carro por segundo?",
-        img: "img/img14.png",
+        img: "img14.webp",
         answers: [
             { option: "10 metros", correct: false },
             { option: "13.5 metros", correct: true },
@@ -141,7 +141,7 @@ export default [
     },
     {
         question: "Ao sair de uma estrada particular ou propriedade o condutor deve?",
-        img: "img/img15.png",
+        img: "img15.webp",
         answers: [
             { option: "Dar prioridade a todos os veículos que se aproximam da estrada", correct: true },
             { option: "Atravessar o mais rápido possível", correct: false },
@@ -151,7 +151,7 @@ export default [
     },
     {
         question: "O que fazer se vai cruzar com um carro com os faróis acesos ao máximo?",
-        img: "img/img16.png",
+        img: "img16.webp",
         answers: [
             { option: "Por também as luzes altas", correct: false },
             { option: "Olhar para as luzes do outro", correct: false },
@@ -161,7 +161,7 @@ export default [
     },
     {
         question: "Quando ouvir a sirene de algum veículo de emergência o que deve fazer?",
-        img: "img/img17.png",
+        img: "img17.webp",
         answers: [
             { option: "Ir a 15 km por hora", correct: false },
             { option: "Aumentar a velocidade para sair do caminho", correct: false },
@@ -171,7 +171,7 @@ export default [
     },
     {
         question: "Você é obrigado por lei a manter uma certa distância do carro à frente. A 50 km/h, qual a distância mínima entre um carro e outro?",
-        img: "img/img18.png",
+        img: "img18.webp",
         answers: [
             { option: "O comprimento de 7 carros", correct: false },
             { option: "O comprimento de 3 carros", correct: true },
@@ -181,7 +181,7 @@ export default [
     },
     {
         question: "Luzes de parque ou estacionamento devem ser usadas apenas?",
-        img: "img/img19.png",
+        img: "img19.webp",
         answers: [
             { option: "Para estacionar", correct: true },
             { option: "Quando se guia com nevoeiro", correct: false },
@@ -191,7 +191,7 @@ export default [
     },
     {
         question: "Quando num cruzamento a luz vermelha está acompanhada de uma seta verde como deve proceder?",
-        img: "img/img20.png",
+        img: "img20.webp",
         answers: [
             { option: "Parar e esperar pela luz verde", correct: false },
             { option: "Proceder com cuidado na direção da seta", correct: true },
@@ -201,7 +201,7 @@ export default [
     },
     {
         question: "Você está autorizado com o permit a conduzir um automóvel a condição de…",
-        img: "img/img21.png",
+        img: "img21.webp",
         answers: [
             { option: "De praticar a condução durante o dia", correct: false },
             { option: "Se estiver acompanhado de uma pessoa que tenha carta de condução C, D, E, F, ou G a 4 anos.", correct: true },
@@ -211,7 +211,7 @@ export default [
     },
     {
         question: "Antes de sair da posição de estacionamento (parking) que precauções deve tomar?",
-        img: "img/img22.png",
+        img: "img22.webp",
         answers: [
             { option: "Dar sinal e sair", correct: false },
             { option: "Ver se a via está livre, dar sinal, e sair em condições de segurança", correct: true },
@@ -221,7 +221,7 @@ export default [
     },
     {
         question: "Uma linha descontinua na Estrada quer dizer…",
-        img: "img/img23.png",
+        img: "img23.webp",
         answers: [
             { option: "Nunca passar, passar a qualquer hora", correct: false },
             { option: "Passar se a via estiver livre", correct: true },
@@ -231,7 +231,7 @@ export default [
     },
     {
         question: "É mais perigoso conduzir o carro de noite do que de dia porque?",
-        img: "img/img24.png",
+        img: "img24.webp",
         answers: [
             { option: "A condução à noite é mais devagar", correct: false },
             { option: "Não consegue ver tão bem ao longe durante a noite", correct: true },
@@ -241,7 +241,7 @@ export default [
     },
     {
         question: "Quando é que tem que usar cintos de segurança em Ontario?",
-        img: "img/img25.png",
+        img: "img25.webp",
         answers: [
             { option: "Sempre que conduza", correct: true },
             { option: "Só a grande velocidade", correct: false },
@@ -251,7 +251,7 @@ export default [
     },
     {
         question: "A que distância legal deve estacionar de uma bomba de água?",
-        img: "img/img26.png",
+        img: "img26.webp",
         answers: [
             { option: "1,50 m (5 pés)", correct: false },
             { option: "6 m (20 pés)", correct: false },
@@ -261,7 +261,7 @@ export default [
     },
     {
         question: "Se as rodas do lado direito do seu carro saírem da Estrada para a beira, como deve proceder para voltar para a estrada?",
-        img: "img/img27.png",
+        img: "img27.webp",
         answers: [
             { option: "Tirar o pé do acelerador, corrigir a posição do carro e voltar para a Estrada quando estiver devagar", correct: true },
             { option: "Pôr travões e virar à esquerda", correct: false },
@@ -271,7 +271,7 @@ export default [
     },
     {
         question: "Quando existem carros parados para deixarem peões (pedestres) atravessarem à frente numa passadeira para peões (cross walk) deve…",
-        img: "img/img28.png",
+        img: "img28.webp",
         answers: [
             { option: "Não passar qualquer carro que esteja parado para deixar o peão passar", correct: true },
             { option: "Passar o carro pela direita", correct: false },
@@ -281,7 +281,7 @@ export default [
     },
     {
         question: "Quando vê uma luz cintilante ou intermitente numa interseção tem que (LUZ VERMELHA)",
-        img: "img/img29.png",
+        img: "img29.webp",
         answers: [
             { option: "Parar! Só segue quando estiver o caminho livre", correct: true },
             { option: "Parar e seguir só quando a luz muda para verde", correct: false },
@@ -291,7 +291,7 @@ export default [
     },
     {
         question: "Numa descida bastante inclinada uma boa medida de segurança é …",
-        img: "img/img30.png",
+        img: "img30.webp",
         answers: [
             { option: "Largar o acelerador", correct: false },
             { option: "Reduzir e usar o motor para assistir na travagem", correct: true },
@@ -301,7 +301,7 @@ export default [
     },
     {
         question: "Conduzindo um veículo durante a noite na autoestrada deve usar as luzes médias quando...",
-        img: "img/img31.png",
+        img: "img31.webp",
         answers: [
             { option: "Se o outro condutor abaixar as luzes", correct: false },
             { option: "Fica escandiado por outro", correct: false },
@@ -311,7 +311,7 @@ export default [
     },
     {
         question: "Quando é que acende as luzes nos veículos?",
-        img: "img/img32.png",
+        img: "img32.webp",
         answers: [
             { option: "Quando não se vê bem a distância de 150 metros", correct: false },
             { option: "Meia hora antes do pôr do sol até meia hora depois de nascer e não se veja bem a distância de 150 metros", correct: true },
@@ -321,7 +321,7 @@ export default [
     },
     {
         question: "Quando dois carros chegam aproximadamente ao mesmo tempo a uma interseção que não é controlada, a prioridade deve ser dada?",
-        img: "img/img33.png",
+        img: "img33.webp",
         answers: [
             { option: "Aquele com mais velocidade", correct: false },
             { option: "Nenhum deles", correct: false },
@@ -331,7 +331,7 @@ export default [
     },
     {
         question: "Antes de deixar o seu carro estacionado numa descida, deve?",
-        img: "img/img34.png",
+        img: "img34.webp",
         answers: [
             { option: "Voltar as rodas da frente para a esquerda e aplicar o travão de mão", correct: false },
             { option: "Puxar somente o travão de mão (freio de mão)", correct: false },
@@ -341,7 +341,7 @@ export default [
     },
     {
         question: "A maior parte dos resvalamentos dos carros são o resultado de:",
-        img: "img/img35.png",
+        img: "img35.webp",
         answers: [
             { option: "Pneus muito cheios", correct: false },
             { option: "Pneus mal cheios", correct: false },
@@ -351,7 +351,7 @@ export default [
     },
     {
         question: "Quando entrar em uma autoestrada, deve dar o sinal e depois…",
-        img: "img/img36.png",
+        img: "img36.webp",
         answers: [
             { option: "Acelerar rapidamente para a velocidade de autoestrada e se juntar ao tráfego", correct: true },
             { option: "Conduzir devagar e estar preparado para parar o tráfego da autoestrada", correct: false },
@@ -361,7 +361,7 @@ export default [
     },
     {
         question: "Quando a luz verde está intermitente para que lado deve seguir?",
-        img: "img/img37.png",
+        img: "img37.webp",
         answers: [
             { option: "Não deve virar à esquerda", correct: false },
             { option: "Parar e esperar que a luz deixe de tremer", correct: false },
@@ -371,7 +371,7 @@ export default [
     },
     {
         question: "Quando um condutor de um veículo está a querer ultrapassar o seu veículo você tem que…",
-        img: "img/img38.png",
+        img: "img38.webp",
         answers: [
             { option: "Aumentar a velocidade", correct: false },
             { option: "Mudar à esquerda", correct: false },
@@ -381,7 +381,7 @@ export default [
     },
     {
         question: "Qual é o sinal de braço correto para indicar que vai parar?",
-        img: "img/img39.png",
+        img: "img39.webp",
         answers: [
             { option: "Braço estendido", correct: false },
             { option: "Braço para cima", correct: false },
@@ -391,7 +391,7 @@ export default [
     },
     {
         question: "Você está chegando a uma interseção e a luz muda de repente para amarelo o que deve fazer?",
-        img: "img/img40.png",
+        img: "img40.webp",
         answers: [
             { option: "Parar. Se vê que não pode fazê-lo com segurança, segue com cuidado", correct: true },
             { option: "Apitar para avisar peões e condutores", correct: false },
@@ -401,7 +401,7 @@ export default [
     },
     {
         question: "Qual a posição do braço para virar à direita?",
-        img: "img/img41.png",
+        img: "img41.webp",
         answers: [
             { option: "Braço para cima", correct: true },
             { option: "Braço para baixo", correct: false },
@@ -411,7 +411,7 @@ export default [
     },
     {
         question: "Em trânsito nunca se muda de faixa sem primeiro…",
-        img: "img/img42.png",
+        img: "img42.webp",
         answers: [
             { option: "Olhar para o espelho", correct: false },
             { option: "Dar sinal próprio, olhar pra ter a certeza que pode ser feito com segurança (checar o blind spot - vidro de trás)", correct: true },
@@ -421,7 +421,7 @@ export default [
     },
     {
         question: "A não ser que queira ultrapassar outro carro ou virar à esquerda, você deve sempre…",
-        img: "img/img43.png",
+        img: "img43.webp",
         answers: [
             { option: "Guiar no centro da Estrada", correct: false },
             { option: "Conduzir à esquerda", correct: false },
@@ -431,7 +431,7 @@ export default [
     },
     {
         question: "Quando a luz está verde num cruzamento quem é que tem a prioridade de todos?",
-        img: "img/img44.png",
+        img: "img44.webp",
         answers: [
             { option: "Condutores que vão virar à esquerda", correct: false },
             { option: "Condutores que vão virar à direita", correct: false },
@@ -441,7 +441,7 @@ export default [
     },
     {
         question: "Quando estiver viajando em uma autoestrada e traga atrelado ao seu veículo um barco ou algo parecido. Qual dos seguintes que não pode transportar nesse atrelado?",
-        img: "img/img45.png",
+        img: "img45.webp",
         answers: [
             { option: "Pessoas", correct: true },
             { option: "Animais de estimação", correct: false },
@@ -451,7 +451,7 @@ export default [
     },
     {
         question: "Quando o carro se encontra numa derrapagem, o que deve fazer em primeiro lugar?",
-        img: "img/img46.png",
+        img: "img46.webp",
         answers: [
             { option: "Manter a direção para a frente", correct: false },
             { option: "Voltar a direção do carro na direção contrária da derrapagem", correct: false },
@@ -461,7 +461,7 @@ export default [
     },
     {
         question: "Ao cruzar-se com outro carro de noite, se as luzes o cegarem, o que deve fazer?",
-        img: "img/img47.png",
+        img: "img47.webp",
         answers: [
             { option: "Abrir e fechar os olhos rapidamente", correct: false },
             { option: "Olhar ligeiramente para o lado direito da rua", correct: true },
@@ -471,7 +471,7 @@ export default [
     },
     {
         question: "Quando o carro que o segue pede passagem, o que deve fazer?",
-        img: "img/img48.png",
+        img: "img48.webp",
         answers: [
             { option: "Chegar-se para a esquerda para que ele não passe", correct: false },
             { option: "Chegar-se para a direita e deixá-lo passar", correct: true },
@@ -481,7 +481,7 @@ export default [
     },
     {
         question: "Se o sinal de luzes muda de verde para amarelo ao aproximar-se de uma interseção, o que deve fazer?",
-        img: "img/img49.png",
+        img: "img49.webp",
         answers: [
             { option: "Parar! Se não pode parar com segurança, proceder com cuidado", correct: true },
             { option: "Buzinar para avisar os peões e outros carros", correct: false },
@@ -491,7 +491,7 @@ export default [
     },
     {
         question: "Em que faixa do tráfego deve estar quando vai voltar para a direita?",
-        img: "img/img50.png",
+        img: "img50.webp",
         answers: [
             { option: "Junto da linha do centro", correct: false },
             { option: "Junto do lado direito da rua", correct: true },
@@ -501,7 +501,7 @@ export default [
     },
     {
         question: "Quando faz um sinal para voltar à esquerda utilizando o braço deve fazê-lo corretamente. Qual é o sinal?",
-        img: "img/img51.png",
+        img: "img51.webp",
         answers: [
             { option: "Braço esticado para fora da janela", correct: true },
             { option: "Braço para baixo", correct: false },
@@ -511,7 +511,7 @@ export default [
     },
     {
         question: "Se vai a uma rua de sentido único e quer voltar à esquerda, que posição se deve encontrar antes de voltar?",
-        img: "img/img52.png",
+        img: "img52.webp",
         answers: [
             { option: "Junto do lado esquerdo da rua", correct: true },
             { option: "Não importa desde que faça sinal", correct: false },
@@ -521,7 +521,7 @@ export default [
     },
     {
         question: "Quando tem que parar muito rapidamente numa rua que está molhada ou congelada, qual a melhor forma de fazer?",
-        img: "img/img53.png",
+        img: "img53.webp",
         answers: [
             { option: "Tirar o pé do travão deixando a compressão fazer", correct: false },
             { option: "Travar a fundo e evitar que o carro derrape", correct: false },
@@ -531,7 +531,7 @@ export default [
     },
     {
         question: "Quando decidir fazer uma inversão de marcha, a primeira coisa a considerar é?",
-        img: "img/img54.png",
+        img: "img54.webp",
         answers: [
             { option: "Os regulamentos do trânsito", correct: true },
             { option: "Verificar se existem bocas de incêndio ou postos perto do passeio", correct: false },
@@ -541,7 +541,7 @@ export default [
     },
     {
         question: "Quando perdemos a carta de condução por pontos (com 15 pontos) e recebemos novamente a carta depois de um certo período, com quantos pontos recebemos a carta?",
-        img: "img/img55.png",
+        img: "img55.webp",
         answers: [
             { option: "5 pontos", correct: false },
             { option: "0 pontos", correct: true },
@@ -551,7 +551,7 @@ export default [
     },
     {
         question: "Quando é que pode emprestar a carta de condução?",
-        img: "img/img56.png",
+        img: "img56.webp",
         answers: [
             { option: "Nunca não é permitido", correct: true },
             { option: "Apenas para familiares", correct: false },
@@ -561,7 +561,7 @@ export default [
     },
     {
         question: "Quando arrebenta um pneu em uma das rodas da frente do carro o que deve-se fazer?",
-        img: "img/img57.png",
+        img: "img57.webp",
         answers: [
             { option: "Tirar o pé do acelerador e manter o volante direito", correct: true },
             { option: "Aplicar os travões imediatamente", correct: false },
@@ -571,7 +571,7 @@ export default [
     },
     {
         question: "É obrigatório que a carta de condução esteja sempre em dia com…",
-        img: "img/img58.png",
+        img: "img58.webp",
         answers: [
             { option: "Datas e moradas atualizadas", correct: true },
             { option: "Apenas a data de validade", correct: false },
@@ -581,460 +581,459 @@ export default [
     },
     {
         question: "Se você tem a G1 (permit), você só pode conduzir um carro se…",
-        img: "img/img59.png",
+        img: "img59.webp",
         answers: [
             { option: "Com um acompanhante que esteja habilitado há 4 anos ou mais com a carta G", correct: true },
             { option: "O carro tiver seguro", correct: false },
             { option: "O carro tiver travão de mão", correct: false },
             { option: "Você tiver mais de 18 anos", correct: false }
-        ]
-    },
+]
+},
     {
-        question: "Qual é o nível de álcool permitido para o seu acompanhante se você é um G1 nível?",
-        img: "img/img60.png",
-        answers: [
-            { option: "O nível do acompanhante deve ser menos que 0,05%", correct: false },
-            { option: "O nível do acompanhante deve ser menos que 0,08%", correct: false },
-            { option: "O nível do acompanhante deve ser 0%", correct: true },
-            { option: "O nível do acompanhante deve ser menos que 0,1%", correct: false }
-        ]
-    },
-    {
-        question: "Porque é mais perigoso conduzir próximo a uma motocicleta?",
-        img: "img/img61.png",
-        answers: [
-            { option: "Porque é mais difícil de visualizar a bicicleta pelo espelho", correct: true },
-            { option: "Porque as motocicletas são mais rápidas", correct: false },
-            { option: "Porque as motocicletas são mais instáveis", correct: false },
-            { option: "Porque as motocicletas são menores", correct: false }
-        ]
-    },
-    {
-        question: "Quando se deve proceder quando se aproxima de uma bicicleta em uma via de trânsito e precisa ultrapassá-la?",
-        img: "img/img62.png",
-        answers: [
-            { option: "Deve-se manter distância de segurança, indicar e mudar de faixa (linha) para passar", correct: true },
-            { option: "Deve-se buzinar e passar rápido", correct: false },
-            { option: "Deve-se diminuir a velocidade e seguir a bicicleta", correct: false },
-            { option: "Deve-se passar pela esquerda rapidamente", correct: false }
-        ]
-    },
-    {
-        question: "Quando se aproxima de um bonde (streetcar), como deve fazer para passar?",
-        img: "img/img63.png",
-        answers: [
-            { option: "Deve-se passar pela direita a não ser que esteja seguindo numa pista de via única. Lembrando que deve-se prestar atenção quando o streetcar parar no ponto que deve-se manter antes das portas de trás do veículo e só prosseguir quando este fechar as portas.", correct: true },
-            { option: "Deve-se passar pela esquerda", correct: false },
-            { option: "Deve-se buzinar antes de passar", correct: false },
-            { option: "Deve-se passar pela direita rapidamente", correct: false }
-        ]
-    },
-    {
-        question: "Quando recusar a fazer teste de sangue ou sopro, qual é a penalidade?",
-        img: "img/img64.png",
-        answers: [
-            { option: "90 dias (3 meses) da carta suspensa (apreendida), imediatamente quando for pego ainda na rua ou na delegacia de polícia e também possível processo criminal", correct: true },
-            { option: "Multa de $500", correct: false },
-            { option: "Suspensão da carta por 30 dias", correct: false },
-            { option: "Advertência verbal", correct: false }
-        ]
-    },
-    {
-        question: "Se você tem a G1 ou a G2 e é pego bebendo e dirigindo, qual é a pena?",
-        img: "img/img65.png",
-        answers: [
-            { option: "30 dias suspenso e o tempo que você já cumpriu de carência dos 12 meses irão zerar e começa a contar novamente, também poderá responder processo criminal.", correct: true },
-            { option: "Multa de $100", correct: false },
-            { option: "Suspensão da carta por 60 dias", correct: false },
-            { option: "Advertência por escrito", correct: false }
-        ]
-    },
-    {
-        question: "Se você não parar para o ônibus escolar (school bus), você poderá ser multado?",
-        img: "img/img66.png",
-        answers: [
-            { option: "Entre $400 a $2000, também perderá 6 demeritos pontos na primeira vez. Se repetir pela segunda vez no período de 5 anos, a multa pode ser em torno de $1000 a $4000 e mais os 6 demeritos pontos, podendo também pegar até 6 meses de prisão.", correct: true },
-            { option: "Multa de $100", correct: false },
-            { option: "Advertência por escrito", correct: false },
-            { option: "Suspensão da carta por 30 dias", correct: false }
-        ]
-    },
-    {
-        question: "Se você tem a G1 ou G2, com quantos pontos sua carta irá ser suspensa?",
-        img: "img/img67.png",
-        answers: [
-            { option: "Se acumular 9 ou mais pontos durante o período de 2 anos.", correct: true },
-            { option: "Se acumular 6 ou mais pontos", correct: false },
-            { option: "Se acumular 12 ou mais pontos", correct: false },
-            { option: "Se acumular 15 ou mais pontos", correct: false }
-        ]
-    },
-    {
-        question: "Por quanto tempo a carteira (G1 ou G2) ficará suspensa se atingir 9 pontos em 2 anos?",
-        img: "img/img68.png",
-        answers: [
-            { option: "60 dias", correct: true },
-            { option: "30 dias", correct: false },
-            { option: "90 dias", correct: false },
-            { option: "120 dias", correct: false }
-        ]
-    },
-    {
-        question: "Depois de suspensa (G1 e G2) com quantos pontos você pegará a carteira de volta?",
-        img: "img/img69.png",
-        answers: [
-            { option: "4 pontos", correct: false },
-            { option: "0 pontos", correct: true },
-            { option: "2 pontos", correct: false },
-            { option: "6 pontos", correct: false }
-        ]
-    },
-    {
-        question: "Se você atingir novamente 9 pontos em 2 anos, por quanto tempo será novamente a carteira suspensa?",
-        img: "img/img70.png",
-        answers: [
-            { option: "Seis meses", correct: true },
-            { option: "Três meses", correct: false },
-            { option: "Nove meses", correct: false },
-            { option: "Um ano", correct: false }
-        ]
-    },
-    {
-        question: "Se você tem a carteira classe G, com quantos pontos sua carteira será suspensa?",
-        img: "img/img71.png",
-        answers: [
-            { option: "15 pontos", correct: true },
-            { option: "12 pontos", correct: false },
-            { option: "10 pontos", correct: false },
-            { option: "18 pontos", correct: false }
-        ]
-    },
-    {
-        question: "Depois da suspensão, com quantos pontos você ficará quando pegar a carteira de volta?",
-        img: "img/img72.png",
-        answers: [
-            { option: "7 pontos", correct: false },
-            { option: "5 pontos", correct: false },
-            { option: "10 pontos", correct: false },
-            { option: "3 pontos", correct: true }
-        ]
-    },
-    {
-        question: "Por quanto tempo você tem a carta suspensa?",
-        img: "img/img73.png",
-        answers: [
-            { option: "30 dias", correct: true },
-            { option: "60 dias", correct: false },
-            { option: "90 dias", correct: false },
-            { option: "120 dias", correct: false }
-        ]
-    },
-    {
-        question: "Se você for pego com o nível de álcool (álcool concentration) acima de 80 miligramas, ou seja, (0,08%), qual será a pena?",
-        img: "img/img74.png",
-        answers: [
-            { option: "Carta suspensa imediatamente por 90 dias (3 meses) ainda na rua ou na delegacia de polícia e possível processo criminal.", correct: true },
-            { option: "Multa de $500", correct: false },
-            { option: "Suspensão da carta por 30 dias", correct: false },
-            { option: "Advertência verbal", correct: false }
-        ]
-    },
-    {
-        question: "Quando estiver parado e deseja virar à direita e o sinal estiver vermelho, como deve proceder?",
-        img: "img/img75.png",
-        answers: [
-            { option: "Parar, olhar para direita e esquerda, verificar que não há pedestres, ver o ponto cego e virar só se não estiver vindo carro e estiver em segurança", correct: true },
-            { option: "Virar sem parar", correct: false },
-            { option: "Esperar a luz verde", correct: false },
-            { option: "Buzinar antes de virar", correct: false }
-        ]
-    },
-    {
-        question: "Quando se muda de endereço, em quanto tempo você deve mudar sua licença para o endereço novo?",
-        img: "img/img76.png",
-        answers: [
-            { option: "Você deve avisar ao ministério de transporte em até 6 dias", correct: true },
-            { option: "Em até 30 dias", correct: false },
-            { option: "Em até 15 dias", correct: false },
-            { option: "Imediatamente", correct: false }
-        ]
-    },
-    {
-        question: "Se você cometer uma ofensa do código criminal pela primeira vez, sua licença pode ser suspensa por…?",
-        img: "img/img77.png",
-        answers: [
-            { option: "1 ano", correct: true },
-            { option: "6 meses", correct: false },
-            { option: "2 anos", correct: false },
-            { option: "3 meses", correct: false }
-        ]
-    },
-    {
-        img: "img/img78.png",
-        answers: [
-            { option: "Deve se voltar a direita", correct: false },
-            { option: "Cruzamento encoberto a frente ", correct: false },
-            { option: " Nao deve voltar a esquerda ", correct: true },
-        ]
-    },
-    {
-        img: "img/img79.png",
-        answers: [
-            { option: "Passar pela direita da ilha de trafico  ", correct: true },
-            { option: "Viragem a direita", correct: false },
-            { option: " Curvas na Estrada ", correct: false },
-            { option: " Passar outros carros pela direita ", correct: false }
-        ]
-    },
-    {
-        img: "img/img80.png",
-        answers: [
-            { option: "Stop a frente ", correct: false },
-            { option: "Dar passagem", correct: false },
-            { option: " Estrada sem saida", correct: false },
-            { option: " Veiculo que vai devagar", correct: true }
-        ]
-    },
-    {
-        img: "img/img81.png",
-        answers: [
-            { option: "Sinal de construcao abrandar a marcha ", correct: false },
-            { option: "Sinal de construcao ", correct: false },
-            { option: " Sinal de regular o trafico ", correct: false },
-            { option: "Este sinal avisa de trabalhadores na Estrada adiante ", correct: true }
-        ]
-    },
-    {
-        img: "img/img82.png",
-        answers: [
-            { option: "Estrada molhada ", correct: false },
-            { option: "Nao virar a direita", correct: false },
-            { option: "Nao virar a esquerda ", correct: false },
-            { option: " Inversao de marcha proibida.nao pode fazer o retorno ", correct: true }
-        ]
-    },
-    {
-        img: "img/img83.png",
-        answers: [
-            { option: " Luzes ou sinais de trafico a frente", correct: true },
-            { option: "Sinal de stop a 150 metros ", correct: false },
-            { option: "  Lombas a 120 metros ", correct: false },
-            { option: " Caminho de ferro  ", correct: false }
-        ]
-    },
-    {
-        img: "img/img84.png",
-        answers: [
-            { option: " Zona escolar ", correct: false },
-            { option: "Parque provincial ", correct: false },
-            { option: "Direcao ou destino a seguir  ", correct: true },
-            { option: "  Sinal de controle para peoes ", correct: false }
-        ]
-    },
-    {
-        img: "img/img85.png",
-        answers: [
-            { option: "aproximacao de um cruzamento", correct: false },
-            { option: "Passagem de nivel.", correct: true },
-            { option: " Estrada sem saida  ", correct: false },
-            { option: "Passagem para pessoas ", correct: false },
-        ]
-    },
-    {
-        img: "img/img86.png",
-        answers: [
-            { option: "Area escolar ", correct: false },
-            { option: "Passagem de nivel", correct: false },
-            { option: "Tem que dar a prioridade", correct: true },
-            { option: "Voce tem a prioridade ", correct: false },
-        ]
-    },
-    {
-        img: "img/img87.png",
-        answers: [
-            { option: "Zona de parque de jogos ", correct: false },
-            { option: "Criancas brincando ", correct: false },
-            { option: " Sinal de zona escolar ", correct: true },
-            { option: "  Sinal de direcao para criancas ", correct: false }
-        ]
-    },
-    {
-        img: "img/img88.png",
-        answers: [
-            { option: "Fabricas   ", correct: false },
-            { option: "Lombas ou pavimentos irregulares a frente ", correct: true },
-            { option: " Construcao", correct: false },
-            { option: " Ponte  ", correct: false }
-        ]
-    },
-    {
-        img: "img/img89.png",
-        answers: [
-            { option: "Estrada dividida a frente ", correct: true },
-            { option: "Estrada dividida que acaba ", correct: false },
-            { option: "Ponte estreita ", correct: false },
-            { option: " Estrada em construcao ", correct: false }
-        ]
-    },
-    {
-        img: "img/img90.png",
-        answers: [
-            { option: "Ponte estreita a frente  ", correct: false },
-            { option: "Estrada dividida a frente ", correct: false },
-            { option: " Estrada dividida que acaba  ", correct: true },
-            { option: " Ponte estreita a frente ", correct: false }
-        ]
-    },
-    {
-        img: "img/img91.png",
-        answers: [
-            { option: "So pode virar a direita", correct: true },
-            { option: "Virar para todos os lados ", correct: false },
-        ]
-    },
-    {
-        img: "img/img92.png",
-        answers: [
-            { option: "Nao entrar no cruzamento  ", correct: false },
-            { option: "Nao pode fazer stop( parar) ", correct: true },
-            { option: "  Veiculos que se aproximam ", correct: false },
-            { option: " Nao precisa parar na direcao das setas ", correct: false }
-        ]
-    },
-    {
-        img: "img/img93.png",
-        answers: [
-            { option: "velocidade maxima de 50 kms deste sinal a outro", correct: false },
-            { option: "Velocidade limitada em zonas de escolas ", correct: false },
-            { option: "Fim de 50 kms por hora ", correct: false },
-            { option: " Maxima velocidade de 50 kms por hr ", correct: true }
-        ]
-    },
-    {
-        img: "img/img94.png",
-        answers: [
-            { option: "Estradas escorregadia  ", correct: true },
-            { option: "Lombas", correct: false },
-            { option: " Curvas  ", correct: false },
-            { option: " Caminho de ferro ", correct: false }
-        ]
-    },
-    {
-        img: "img/img95.png",
-        answers: [
-            { option: "Continuar pela esquerda ", correct: false },
-            { option: "Continuar pela direita", correct: false },
-            { option: "Mantenha-se for a( nao pode passar) ", correct: true },
-            { option: "Nao passé  ", correct: false }
-        ]
-    },
-    {
-        img: "img/img96.png",
-        answers: [
-            { option: "Parar a 150 metros ", correct: false },
-            { option: " Lombas ", correct: false },
-            { option: " Parar sempre e completamente ", correct: true },
-            { option: " Parar so se virem carro  ", correct: false }
-        ]
-    },
-    {
-        img: "img/img97.png",
-        answers: [
-            { option: "Nao pode estacionar ", correct: false },
-            { option: " Nao dirija atraves da intersecao", correct: true },
-        ]
-    },
-    {
-        img: "img/img98.png",
-        answers: [
-            { option: "Probido ultrapassar ", correct: true },
-            { option: "Nao deixe o carro da frente passar", correct: false },
-        ]
-    },
-    {
-        img: "img/img99.png",
-        answers: [
-            { option: " Nao pode virar ", correct: false },
-            { option: "So pode virar a esquerda nos dois sentidos", correct: true },
-            { option: " Vire a direita  ", correct: false },
-        ]
-    },
-    {
-        img: "img/img100.png",
-        answers: [
-            { option: "Estrada dividida a frente ", correct: false },
-            { option: "Rua de sentido unico ", correct: false },
-            { option: " Pavimentos estreitos  ", correct: true },
-        ]
-    },
-    {
-        img: "img2/img101.png",
-        answers: [
-            { option: "Cruzamento Escondido  ", correct: false },
-            { option: "Muitas curvas", correct: true },
-            { option: " Estrada molhada  ", correct: false },
-            { option: " Passagem estreita  ", correct: false }
-        ]
-    },
-    {
-        img: "img2/img102.png",
-        answers: [
-            { option: "Nao deve voltar a esquerda", correct: false },
-            { option: "Aproxima se de um sinal de luzes ", correct: false },
-            { option: " Esta aproximar-se de um sinal de paragem  ", correct: true },
-        ]
-    },
-    {
-        img: "img2/img103.png",
-        answers: [
-            { option: "Fim de pavimento a frente  ", correct: false },
-            { option: "Lombas a frente ", correct: false },
-            { option: " Aviso de uma descida ingreme a frente   ", correct: true },
-        ]
-    },
-    {
-        img: "img2/img104.png",
-        answers: [
-            { option: "Continuar a esquerda  ", correct: false },
-            { option: "Estrada com curves ", correct: false },
-            { option: "  Perigo,curva apertada  ", correct: true },
-        ]
-    },
-    {
-        img: "img2/img105.png",
-        answers: [
-            { option: "Sinal mandatorio-diminua e mantenha-se na direita", correct: true },
-            { option: " intersecao a frente.Mostra onde o trafico deve andar ", correct: false },
-            { option: "  linha de trafico fechada.acelere e se junte ao trafico indicado pela seta   ", correct: false },
-            { option: "  Nao virar a direita no sinal vermelho", correct: false }
-        ]
-    },
-    {
-        img: "img2/img107.png",
-        answers: [
-            { option: "Sinal mandatorio-diminua e mantenha-se na direita", correct: false },
-            { option: " intersecao a frente.Mostra onde o trafico deve andar ", correct: true },
-            { option: "  linha de trafico fechada.acelere e se junte ao trafico indicado pela seta   ", correct: false },
-            { option: "  Nao virar a direita no sinal vermelho", correct: false }
-        ]
-    },
-    {
-        img: "img2/img108.png",
-        answers: [
-            { option: "Sinal mandatorio-diminua e mantenha-se na direita", correct: false },
-            { option: " intersecao a frente.Mostra onde o trafico deve andar ", correct: false },
-            { option: "  linha de trafico fechada.acelere e se junte ao trafico indicado pela seta   ", correct: true },
-            { option: "  Nao virar a direita no sinal vermelho", correct: false }
-        ]
-    },
-    {
-        img: "img2/img109.png",
-        answers: [
-            { option: "Sinal mandatorio-diminua e mantenha-se na direita", correct: false },
-            { option: " intersecao a frente.Mostra onde o trafico deve andar ", correct: false },
-            { option: "  linha de trafico fechada.acelere e se junte ao trafico indicado pela seta   ", correct: false },
-            { option: "  Nao virar a direita no sinal vermelho", correct: true }
-        ]
-    },
- 
+question: "Qual é o nível de álcool permitido para o seu acompanhante se você é um G1 nível?",
+img: "img60.webp",
+answers: [
+{ option: "O nível do acompanhante deve ser menos que 0,05%", correct: false },
+{ option: "O nível do acompanhante deve ser menos que 0,08%", correct: false },
+{ option: "O nível do acompanhante deve ser 0%", correct: true },
+{ option: "O nível do acompanhante deve ser menos que 0,1%", correct: false }
+]
+},
+{
+question: "Porque é mais perigoso conduzir próximo a uma motocicleta?",
+img: "img61.webp",
+answers: [
+{ option: "Porque é mais difícil de visualizar a bicicleta pelo espelho", correct: true },
+{ option: "Porque as motocicletas são mais rápidas", correct: false },
+{ option: "Porque as motocicletas são mais instáveis", correct: false },
+{ option: "Porque as motocicletas são menores", correct: false }
+]
+},
+{
+question: "Quando se deve proceder quando se aproxima de uma bicicleta em uma via de trânsito e precisa ultrapassá-la?",
+img: "img62.webp",
+answers: [
+{ option: "Deve-se manter distância de segurança, indicar e mudar de faixa (linha) para passar", correct: true },
+{ option: "Deve-se buzinar e passar rápido", correct: false },
+{ option: "Deve-se diminuir a velocidade e seguir a bicicleta", correct: false },
+{ option: "Deve-se passar pela esquerda rapidamente", correct: false }
+]
+},
+{
+question: "Quando se aproxima de um bonde (streetcar), como deve fazer para passar?",
+img: "img63.webp",
+answers: [
+{ option: "Deve-se passar pela direita a não ser que esteja seguindo numa pista de via única. Lembrando que deve-se prestar atenção quando o streetcar parar no ponto que deve-se manter antes das portas de trás do veículo e só prosseguir quando este fechar as portas.", correct: true },
+{ option: "Deve-se passar pela esquerda", correct: false },
+{ option: "Deve-se buzinar antes de passar", correct: false },
+{ option: "Deve-se passar pela direita rapidamente", correct: false }
+]
+},
+{
+question: "Quando recusar a fazer teste de sangue ou sopro, qual é a penalidade?",
+img: "img64.webp",
+answers: [
+{ option: "90 dias (3 meses) da carta suspensa (apreendida), imediatamente quando for pego ainda na rua ou na delegacia de polícia e também possível processo criminal", correct: true },
+{ option: "Multa de $500", correct: false },
+{ option: "Suspensão da carta por 30 dias", correct: false },
+{ option: "Advertência verbal", correct: false }
+]
+},
+{
+question: "Se você tem a G1 ou a G2 e é pego bebendo e dirigindo, qual é a pena?",
+img: "img65.webp",
+answers: [
+{ option: "30 dias suspenso e o tempo que você já cumpriu de carência dos 12 meses irão zerar e começa a contar novamente, também poderá responder processo criminal.", correct: true },
+{ option: "Multa de $100", correct: false },
+{ option: "Suspensão da carta por 60 dias", correct: false },
+{ option: "Advertência por escrito", correct: false }
+]
+},
+{
+question: "Se você não parar para o ônibus escolar (school bus), você poderá ser multado?",
+img: "img66.webp",
+answers: [
+{ option: "Entre $400 a $2000, também perderá 6 demeritos pontos na primeira vez. Se repetir pela segunda vez no período de 5 anos, a multa pode ser em torno de $1000 a $4000 e mais os 6 demeritos pontos, podendo também pegar até 6 meses de prisão.", correct: true },
+{ option: "Multa de $100", correct: false },
+{ option: "Advertência por escrito", correct: false },
+{ option: "Suspensão da carta por 30 dias", correct: false }
+]
+},
+{
+question: "Se você tem a G1 ou G2, com quantos pontos sua carta irá ser suspensa?",
+img: "img67.webp",
+answers: [
+{ option: "Se acumular 9 ou mais pontos durante o período de 2 anos.", correct: true },
+{ option: "Se acumular 6 ou mais pontos", correct: false },
+{ option: "Se acumular 12 ou mais pontos", correct: false },
+{ option: "Se acumular 15 ou mais pontos", correct: false }
+]
+},
+{
+question: "Por quanto tempo a carteira (G1 ou G2) ficará suspensa se atingir 9 pontos em 2 anos?",
+img: "img68.webp",
+answers: [
+{ option: "60 dias", correct: true },
+{ option: "30 dias", correct: false },
+{ option: "90 dias", correct: false },
+{ option: "120 dias", correct: false }
+]
+},
+{
+question: "Depois de suspensa (G1 e G2) com quantos pontos você pegará a carteira de volta?",
+img: "img69.webp",
+answers: [
+{ option: "4 pontos", correct: false },
+{ option: "0 pontos", correct: true },
+{ option: "2 pontos", correct: false },
+{ option: "6 pontos", correct: false }
+]
+},
+{
+question: "Se você atingir novamente 9 pontos em 2 anos, por quanto tempo será novamente a carteira suspensa?",
+img: "img70.webp",
+answers: [
+{ option: "Seis meses", correct: true },
+{ option: "Três meses", correct: false },
+{ option: "Nove meses", correct: false },
+{ option: "Um ano", correct: false }
+]
+},
+{
+question: "Se você tem a carteira classe G, com quantos pontos sua carteira será suspensa?",
+img: "img71.webp",
+answers: [
+{ option: "15 pontos", correct: true },
+{ option: "12 pontos", correct: false },
+{ option: "10 pontos", correct: false },
+{ option: "18 pontos", correct: false }
+]
+},
+{
+question: "Depois da suspensão, com quantos pontos você ficará quando pegar a carteira de volta?",
+img: "img72.webp",
+answers: [
+{ option: "7 pontos", correct: false },
+{ option: "5 pontos", correct: false },
+{ option: "10 pontos", correct: false },
+{ option: "3 pontos", correct: true }
+]
+},
+{
+question: "Por quanto tempo você tem a carta suspensa?",
+img: "img73.webp",
+answers: [
+{ option: "30 dias", correct: true },
+{ option: "60 dias", correct: false },
+{ option: "90 dias", correct: false },
+{ option: "120 dias", correct: false }
+]
+},
+{
+question: "Se você for pego com o nível de álcool (álcool concentration) acima de 80 miligramas, ou seja, (0,08%), qual será a pena?",
+img: "img74.webp",
+answers: [
+{ option: "Carta suspensa imediatamente por 90 dias (3 meses) ainda na rua ou na delegacia de polícia e possível processo criminal.", correct: true },
+{ option: "Multa de $500", correct: false },
+{ option: "Suspensão da carta por 30 dias", correct: false },
+{ option: "Advertência verbal", correct: false }
+]
+},
+{
+question: "Quando estiver parado e deseja virar à direita e o sinal estiver vermelho, como deve proceder?",
+img: "img75.webp",
+answers: [
+{ option: "Parar, olhar para direita e esquerda, verificar que não há pedestres, ver o ponto cego e virar só se não estiver vindo carro e estiver em segurança", correct: true },
+{ option: "Virar sem parar", correct: false },
+{ option: "Esperar a luz verde", correct: false },
+{ option: "Buzinar antes de virar", correct: false }
+]
+},
+{
+question: "Quando se muda de endereço, em quanto tempo você deve mudar sua licença para o endereço novo?",
+img: "img76.webp",
+answers: [
+{ option: "Você deve avisar ao ministério de transporte em até 6 dias", correct: true },
+{ option: "Em até 30 dias", correct: false },
+{ option: "Em até 15 dias", correct: false },
+{ option: "Imediatamente", correct: false }
+]
+},
+{
+question: "Se você cometer uma ofensa do código criminal pela primeira vez, sua licença pode ser suspensa por…?",
+img: "img77.webp",
+answers: [
+{ option: "1 ano", correct: true },
+{ option: "6 meses", correct: false },
+{ option: "2 anos", correct: false },
+{ option: "3 meses", correct: false }
+]
+},
+{
+img: "img78.webp",
+answers: [
+{ option: "Deve se voltar a direita", correct: false },
+{ option: "Cruzamento encoberto a frente ", correct: false },
+{ option: "Nao deve voltar a esquerda ", correct: true },
+]
+},
+{
+img: "img79.webp",
+answers: [
+{ option: "Passar pela direita da ilha de trafico", correct: true },
+{ option: "Viragem a direita", correct: false },
+{ option: "Curvas na Estrada", correct: false },
+{ option: "Passar outros carros pela direita", correct: false }
+]
+},
+{
+img: "img80.webp",
+answers: [
+{ option: "Stop a frente", correct: false },
+{ option: "Dar passagem", correct: false },
+{ option: "Estrada sem saida", correct: false },
+{ option: "Veiculo que vai devagar", correct: true }
+]
+},
+{
+img: "img81.webp",
+answers: [
+{ option: "Sinal de construcao abrandar a marcha", correct: false },
+{ option: "Sinal de construcao", correct: false },
+{ option: "Sinal de regular o trafico", correct: false },
+{ option: "Este sinal avisa de trabalhadores na Estrada adiante", correct: true }
+]
+},
+{
+img: "img82.webp",
+answers: [
+{ option: "Estrada molhada", correct: false },
+{ option: "Nao virar a direita", correct: false },
+{ option: "Nao virar a esquerda", correct: false },
+{ option: "Inversao de marcha proibida.nao pode fazer o retorno", correct: true }
+]
+},
+{
+img: "img83.webp",
+answers: [
+{ option: "Luzes ou sinais de trafico a frente", correct: true },
+{ option: "Sinal de stop a 150 metros", correct: false },
+{ option: "Lombas a 120 metros", correct: false },
+{ option: "Caminho de ferro", correct: false }
+]
+},
+{
+img: "img84.webp",
+answers: [
+{ option: "Zona escolar", correct: false },
+{ option: "Parque provincial", correct: false },
+{ option: "Direcao ou destino a seguir", correct: true },
+{ option: "Sinal de controle para peoes", correct: false }
+]
+},
+{
+img: "img85.webp",
+answers: [
+{ option: "Aproximacao de um cruzamento", correct: false },
+{ option: "Passagem de nivel.", correct: true },
+{ option: "Estrada sem saida", correct: false },
+{ option: "Passagem para pessoas", correct: false },
+]
+},
+{
+img: "img86.webp",
+answers: [
+{ option: "Area escolar", correct: false },
+{ option: "Passagem de nivel", correct: false },
+{ option: "Tem que dar a prioridade", correct: true },
+{ option: "Voce tem a prioridade", correct: false },
+]
+},
+{
+img: "img87.webp",
+answers: [
+{ option: "Zona de parque de jogos", correct: false },
+{ option: "Criancas brincando", correct: false },
+{ option: "Sinal de zona escolar", correct: true },
+{ option: "Sinal de direcao para criancas", correct: false }
+]
+},
+{
+img: "img88.webp",
+answers: [
+{ option: "Fabricas", correct: false },
+{ option: "Lombas ou pavimentos irregulares a frente", correct: true },
+{ option: "Construcao", correct: false },
+{ option: "Ponte", correct: false }
+]
+},
+{
+img: "img89.webp",
+answers: [
+{ option: "Estrada dividida a frente", correct: true },
+{ option: "Estrada dividida que acaba", correct: false },
+{ option: "Ponte estreita", correct: false },
+{ option: "Estrada em construcao", correct: false }
+]
+},
+{
+img: "img90.webp",
+answers: [
+{ option: "Ponte estreita a frente", correct: false },
+{ option: "Estrada dividida a frente", correct: false },
+{ option: "Estrada dividida que acaba", correct: true },
+{ option: "Ponte estreita a frente", correct: false }
+]
+},
+{
+img: "img91.webp",
+answers: [
+{ option: "So pode virar a direita", correct: true },
+{ option: "Virar para todos os lados", correct: false },
+]
+},
+{
+img: "img92.webp",
+answers: [
+{ option: "Nao entrar no cruzamento", correct: false },
+{ option: "Nao pode fazer stop( parar)", correct: true },
+{ option: "Veiculos que se aproximam", correct: false },
+{ option: "Nao precisa parar na direcao das setas", correct: false }
+]
+},
+{
+img: "img93.webp",
+answers: [
+{ option: "Velocidade maxima de 50 kms deste sinal a outro", correct: false },
+{ option: "Velocidade limitada em zonas de escolas", correct: false },
+{ option: "Fim de 50 kms por hora", correct: false },
+{ option: "Maxima velocidade de 50 kms por hr", correct: true }
+]
+},
+{
+img: "img94.webp",
+answers: [
+{ option: "Estradas escorregadia", correct: true },
+{ option: "Lombas", correct: false },
+{ option: "Curvas", correct: false },
+{ option: "Caminho de ferro", correct: false }
+]
+},
+{
+img: "img95.webp",
+answers: [
+{ option: "Continuar pela esquerda", correct: false },
+{ option: "Continuar pela direita", correct: false },
+{ option: "Mantenha-se for a( nao pode passar)", correct: true },
+{ option: "Nao passé", correct: false }
+]
+},
+{
+img: "img96.webp",
+answers: [
+{ option: "Parar a 150 metros", correct: false },
+{ option: "Lombas", correct: false },
+{ option: "Parar sempre e completamente", correct: true },
+{ option: "Parar so se virem carro", correct: false }
+]
+},
+{
+img: "img97.webp",
+answers: [
+{ option: "Nao pode estacionar", correct: false },
+{ option: "Nao dirija atraves da intersecao", correct: true },
+]
+},
+{
+img: "img98.webp",
+answers: [
+{ option: "Probido ultrapassar", correct: true },
+{ option: "Nao deixe o carro da frente passar", correct: false },
+]
+},
+{
+img: "img99.webp",
+answers: [
+{ option: "Nao pode virar", correct: false },
+{ option: "So pode virar a esquerda nos dois sentidos", correct: true },
+{ option: "Vire a direita", correct: false },
+]
+},
+{
+img: "img100.webp",
+answers: [
+{ option: "Estrada dividida a frente", correct: false },
+{ option: "Rua de sentido unico", correct: false },
+{ option: "Pavimentos estreitos", correct: true },
+]
+},
+{
+img: "img101.webp",
+answers: [
+{ option: "Cruzamento Escondido", correct: false },
+{ option: "Muitas curvas", correct: true },
+{ option: "Estrada molhada", correct: false },
+{ option: "Passagem estreita", correct: false }
+]
+},
+{
+img: "img102.webp",
+answers: [
+{ option: "Nao deve voltar a esquerda", correct: false },
+{ option: "Aproxima se de um sinal de luzes", correct: false },
+{ option: "Esta aproximar-se de um sinal de paragem", correct: true },
+]
+},
+{
+img: "img103.webp",
+answers: [
+{ option: "Fim de pavimento a frente", correct: false },
+{ option: "Lombas a frente", correct: false },
+{ option: "Aviso de uma descida ingreme a frente", correct: true },
+]
+},
+{
+img: "img104.webp",
+answers: [
+{ option: "Continuar a esquerda", correct: false },
+{ option: "Estrada com curves", correct: false },
+{ option: "Perigo,curva apertada", correct: true },
+]
+},
+{
+img: "img105.webp",
+answers: [
+{ option: "Sinal mandatorio-diminua e mantenha-se na direita", correct: true },
+{ option: "Intersecao a frente.Mostra onde o trafico deve andar", correct: false },
+{ option: "Linha de trafico fechada.acelere e se junte ao trafico indicado pela seta", correct: false },
+{ option: "Nao virar a direita no sinal vermelho", correct: false }
+]
+},
+{
+img: "img107.webp",
+answers: [
+{ option: "Sinal mandatorio-diminua e mantenha-se na direita", correct: false },
+{ option: "Intersecao a frente.Mostra onde o trafico deve andar", correct: true },
+{ option: "Linha de trafico fechada.acelere e se junte ao trafico indicado pela seta", correct: false },
+{ option: "Nao virar a direita no sinal vermelho", correct: false }
+]
+},
+{
+img: "img108.webp",
+answers: [
+{ option: "Sinal mandatorio-diminua e mantenha-se na direita", correct: false },
+{ option: "Intersecao a frente.Mostra onde o trafico deve andar", correct: false },
+{ option: "Linha de trafico fechada.acelere e se junte ao trafico indicado pela seta", correct: true },
+{ option: "Nao virar a direita no sinal vermelho", correct: false }
+]
+},
+{
+img: "img109.webp",
+answers: [
+{ option: "Sinal mandatorio-diminua e mantenha-se na direita", correct: false },
+{ option: "Intersecao a frente.Mostra onde o trafico deve andar", correct: false },
+{ option: "Linha de trafico fechada.acelere e se junte ao trafico indicado pela seta", correct: false },
+{ option: "Nao virar a direita no sinal vermelho", correct: true }
+]
+}
 ];
